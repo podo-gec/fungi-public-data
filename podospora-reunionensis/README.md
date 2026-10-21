@@ -1,6 +1,6 @@
 # Public genomes of _Podospora anserina_ species complex in France
 
-Publication: wip.
+Publication: Silar P., Gautier V., Lalanne C., Tangthirasunun N., Arthur M., Hartmann F.E. & Giraud T. (2025) The Podospora anserina species complex in metropolitan and overseas France with description of a new species, Podospora reunionensis sp. nov. Cryptogamie Mycologie 46(6): 87-101. doi.org/10.5252/cryptogamiemycologie2025v46a6.
 
 Bioproject: [PRJNA1195547].
 
